@@ -1,0 +1,13 @@
+<%! from django.utils.translation import ugettext as _ %>
+<%inherit file="../main.html" />
+
+<%block name="pagetitle">${_("Honor Code")}</%block>
+
+<section class="container about">
+<h1>${_("Honor Code")}</h1>
+<div class="paragraph"><span class="Honor">
+Overbrook School seeks to permeate the school day with the presence of Christ. It is reasonable,therefore, that our school expects and 
+requires honorable conduct at all times. Cheating,plagiarism, lying, stealing, forgery of signatures on test/documents, and failure to 
+respect school property or persons are serious breaches of the conduct code.
+</span></div>
+</section>

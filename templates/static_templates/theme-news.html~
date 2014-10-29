@@ -1,0 +1,58 @@
+<%! from django.utils.translation import ugettext as _ %>
+
+<%inherit file="../main.html" />
+
+<%block name="pagetitle">${_("In the Press")}</%block>
+
+<section class="container about">
+<h1>${_("In the Press")}</h1>
+
+<div class="column-left views-fieldset" data-module="views_fieldsets">
+
+  
+  	<div class="news-image"><img typeof="foaf:Image" class="image-style-none" src="https://www.edx.org/sites/default/files/news/source/image/wired.png" width="102" height="79" alt="" /></div>  
+  
+</div>
+
+<div class="copy-detail views-fieldset" data-module="views_fieldsets">
+
+  
+  	<span class="news-brief-intro">The MOOC was The Next Big Thing—and then it was written off for dead. But for Anant Agarwal, one of the founding fathers of this online reboot of university education, it’s only just getting started.</span>  	<span class="more"><a href="http://www.wired.com/2014/09/free-online-classes-still-future-education/" target="_blank">more</a></span>  
+  
+</div>
+
+  
+  
+</div>
+
+    </div>
+  <div class="news-row clearfix">
+      
+          
+<div class="column-left views-fieldset" data-module="views_fieldsets">
+
+  
+  	<div class="news-image"><img typeof="foaf:Image" class="image-style-none" src="https://www.edx.org/sites/default/files/news/source/image/education-week.png" width="102" height="79" alt="" /></div>  
+  
+</div>
+<div class="column-right views-fieldset" data-module="views_fieldsets">
+
+  
+  	<h3 class="news-title"><a href="http://blogs.edweek.org/edweek/DigitalEducation/2014/09/edx_enters_k-12_arena_with_hig.html" target="_blank">EdX Enters K-12 Arena with High School Level MOOCs</a></h3>  	
+<div class="clearfix copy-meta views-fieldset" data-module="views_fieldsets">
+
+  
+  	<span class="info source">Education Week</span>  	<span class="info date"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2014-09-12T00:00:00-04:00">12 Sep 2014</span></span>  	<span class="info author"><span class="label">By</span><span class="field">Sam Atkeson</span></span>  
+  
+</div>
+
+  	
+<div class="copy-detail views-fieldset" data-module="views_fieldsets">
+
+  
+  	<span class="news-brief-intro">Students looking to better prepare for AP exams, or simply eager to expand their knowledge in a specific subject area, will be given access to a set of massive, open, online courses—or "MOOCs"—geared toward a high school audience.</span>  	<span class="more"><a href="http://blogs.edweek.org/edweek/DigitalEducation/2014/09/edx_enters_k-12_arena_with_hig.html" target="_blank">more</a></span>  
+  
+</div>
+
+
+</section>

@@ -1,0 +1,9 @@
+<%! from django.utils.translation import ugettext as _ %>
+<%inherit file="../main.html" />
+
+<%block name="pagetitle">${_("FAQ")}</%block>
+
+<section class="container about">
+<h1>${_("FAQ")}</h1>
+<p>${_("Our goal is to provide you great self-service tools that ensure your success. Still need help after reading these? Please submit a question through our contact us page or, if you are a current student, post your question(s) in your course discussion forum.")}</p>
+</section>

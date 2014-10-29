@@ -11,15 +11,17 @@
 
 //Main Color Variables
 //$main-color: #f7691f;
-$main-color: #063E61;
-//$dark-color: #ea281f; 
-$dark-color: #1273B0; //Link Color
+//$dark-color: #e; 
+
+$main-color: #00215E;
+$dark-color: #040075; //Link Color
 $light-color: #f4e00c; //Selected Header BG Color, ie. calendar        ***Custom, not from palette***
 $bg-color: #f7fe81; //Selected Content BG Color, ie. calendar          ***Custom, not from palette***
 
 //Main BG Color Variables
 //$main-bg: #822537;
-$main-bg: #063E61;
+
+$main-bg: #112854;
 $main-bg-60: lighten($main-bg, 18.5%); //Main Border/HR Color
 $main-bg-25: lighten($main-bg, 25%); 
 
